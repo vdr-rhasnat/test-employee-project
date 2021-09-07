@@ -1,0 +1,755 @@
+{
+  "EmployeeProject.dll": {
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\EmployeeDBContext.cs": {
+      "EmployeeProject.EmployeeDBContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<EmployeeProject.Model.Employee> EmployeeProject.EmployeeDBContext::get_Employees()": {
+          "Lines": {
+            "12": 12
+          },
+          "Branches": []
+        },
+        "System.String EmployeeProject.EmployeeDBContext::get_EmployeeDbPath()": {
+          "Lines": {
+            "14": 12
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.EmployeeDBContext::OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)": {
+          "Lines": {
+            "24": 4
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.EmployeeDBContext::.ctor()": {
+          "Lines": {
+            "16": 8,
+            "17": 8,
+            "18": 8,
+            "19": 8,
+            "20": 8,
+            "21": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Program.cs": {
+      "EmployeeProject.Program": {
+        "System.Void EmployeeProject.Program::Main(System.String[])": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.Extensions.Hosting.IHostBuilder EmployeeProject.Program::CreateHostBuilder(System.String[])": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Startup.cs": {
+      "EmployeeProject.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration EmployeeProject.Startup::get_Configuration()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void EmployeeProject.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Pages\\Error.cshtml.cs": {
+      "EmployeeProject.Pages.ErrorModel": {
+        "System.String EmployeeProject.Pages.ErrorModel::get_RequestId()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean EmployeeProject.Pages.ErrorModel::get_ShowRequestId()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Pages.ErrorModel::OnGet()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 20,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void EmployeeProject.Pages.ErrorModel::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeProject.Pages.ErrorModel>)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Pages\\Index.cshtml.cs": {
+      "EmployeeProject.Pages.IndexModel": {
+        "System.Void EmployeeProject.Pages.IndexModel::OnGet()": {
+          "Lines": {
+            "21": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Pages.IndexModel::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeProject.Pages.IndexModel>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Pages\\Privacy.cshtml.cs": {
+      "EmployeeProject.Pages.PrivacyModel": {
+        "System.Void EmployeeProject.Pages.PrivacyModel::OnGet()": {
+          "Lines": {
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Pages.PrivacyModel::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeProject.Pages.PrivacyModel>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Model\\Employee.cs": {
+      "EmployeeProject.Model.Employee": {
+        "System.Void EmployeeProject.Model.Employee::set_Id(System.Int32)": {
+          "Lines": {
+            "12": 14
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Model.Employee::set_Name(System.String)": {
+          "Lines": {
+            "13": 14
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Model.Employee::set_Type(System.String)": {
+          "Lines": {
+            "14": 14
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Model.Employee::set_Address(System.String)": {
+          "Lines": {
+            "15": 14
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Migrations\\20210902122332_InitialCreate.cs": {
+      "EmployeeProject.Migrations.InitialCreate": {
+        "System.Void EmployeeProject.Migrations.InitialCreate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Migrations.InitialCreate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Migrations\\20210902122332_InitialCreate.Designer.cs": {
+      "EmployeeProject.Migrations.InitialCreate": {
+        "System.Void EmployeeProject.Migrations.InitialCreate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Migrations\\EmployeeDBContextModelSnapshot.cs": {
+      "EmployeeProject.Migrations.EmployeeDBContextModelSnapshot": {
+        "System.Void EmployeeProject.Migrations.EmployeeDBContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "13": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\EmployeeRepository\\EmployeeService.cs": {
+      "EmployeeProject.EmployeeRepository.EmployeeService": {
+        "System.Collections.Generic.List`1<EmployeeProject.Model.Employee> EmployeeProject.EmployeeRepository.EmployeeService::SaveEmployee()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": [
+            {
+              "Line": 52,
+              "Offset": 339,
+              "EndOffset": 297,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 339,
+              "EndOffset": 341,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<EmployeeProject.Model.Employee> EmployeeProject.EmployeeRepository.EmployeeService::GetEmployees()": {
+          "Lines": {
+            "60": 1,
+            "61": 1,
+            "62": 1
+          },
+          "Branches": []
+        },
+        "EmployeeProject.Model.Employee EmployeeProject.EmployeeRepository.EmployeeService::GetEmployeeById(System.Int32)": {
+          "Lines": {
+            "65": 1,
+            "66": 1,
+            "67": 1
+          },
+          "Branches": []
+        },
+        "EmployeeProject.Model.Employee EmployeeProject.EmployeeRepository.EmployeeService::GetEmployeeByName(System.String)": {
+          "Lines": {
+            "70": 1,
+            "71": 1,
+            "72": 1
+          },
+          "Branches": []
+        },
+        "EmployeeProject.Model.Employee EmployeeProject.EmployeeRepository.EmployeeService::GetEmployeeByType(System.String)": {
+          "Lines": {
+            "75": 1,
+            "76": 1,
+            "77": 1
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.EmployeeRepository.EmployeeService::.ctor()": {
+          "Lines": {
+            "11": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Controller\\EmployeeController.cs": {
+      "EmployeeProject.Controller.EmployeeController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult EmployeeProject.Controller.EmployeeController::SaveEmployee()": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult EmployeeProject.Controller.EmployeeController::GetEmployee()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult EmployeeProject.Controller.EmployeeController::GetEmployeeById(System.Int32)": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult EmployeeProject.Controller.EmployeeController::GetEmployeeByName(System.String)": {
+          "Lines": {
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult EmployeeProject.Controller.EmployeeController::GetEmployeeByType(System.String)": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeProject.Controller.EmployeeController::.ctor()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "EmployeeProject.Views.dll": {
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Pages\\Error.cshtml": {
+      "EmployeeProject.Pages.Pages_Error/<ExecuteAsync>d__0": {
+        "System.Void EmployeeProject.Pages.Pages_Error/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "15": 0
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 70,
+              "EndOffset": 136,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Pages\\Index.cshtml": {
+      "EmployeeProject.Pages.Pages_Index/<ExecuteAsync>d__0": {
+        "System.Void EmployeeProject.Pages.Pages_Index/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Pages\\Privacy.cshtml": {
+      "EmployeeProject.Pages.Pages_Privacy/<ExecuteAsync>d__0": {
+        "System.Void EmployeeProject.Pages.Pages_Privacy/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Pages\\_ViewStart.cshtml": {
+      "EmployeeProject.Pages.Pages__ViewStart/<ExecuteAsync>d__0": {
+        "System.Void EmployeeProject.Pages.Pages__ViewStart/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Projects\\EmployeeProject\\EmployeeProject\\EmployeeProject\\Pages\\Shared\\_Layout.cshtml": {
+      "EmployeeProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__22_0>d": {
+        "System.Void EmployeeProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__22_0>d::MoveNext()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 425,
+              "EndOffset": 427,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 425,
+              "EndOffset": 538,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 921,
+              "EndOffset": 923,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 921,
+              "EndOffset": 1034,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "EmployeeProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__22_1>d": {
+        "System.Void EmployeeProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__22_1>d::MoveNext()": {
+          "Lines": {
+            "34": 0,
+            "46": 0,
+            "48": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 537,
+              "EndOffset": 539,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 537,
+              "EndOffset": 650,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 1105,
+              "EndOffset": 1107,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 1105,
+              "EndOffset": 1218,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 1673,
+              "EndOffset": 1675,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 1673,
+              "EndOffset": 1786,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 2259,
+              "EndOffset": 2261,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 2259,
+              "EndOffset": 2372,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 2733,
+              "EndOffset": 2735,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 2733,
+              "EndOffset": 2847,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 3209,
+              "EndOffset": 3211,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 3209,
+              "EndOffset": 3323,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 3834,
+              "EndOffset": 3836,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 3834,
+              "EndOffset": 3948,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

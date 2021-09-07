@@ -1,0 +1,307 @@
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.exe
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.deps.json
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.json
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.dev.json
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.pdb
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.Views.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.Views.pdb
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfo.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorAssemblyInfo.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorAssemblyInfo.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeProject.StaticWebAssets.Manifest.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeProject.StaticWebAssets.xml
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeProject.styles.css
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.TagHelpers.input.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.TagHelpers.output.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorCoreGenerate.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorTargetAssemblyInfo.cache
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorTargetAssemblyInfo.cs
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.Views.pdb
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CopyComplete
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.dll
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.pdb
+C:\Users\centusadmin\source\repos\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.genruntimeconfig.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.exe
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.deps.json
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.json
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.dev.json
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.pdb
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.Views.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.Views.pdb
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.AssemblyReference.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfoInputs.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfo.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CoreCompileInputs.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorAssemblyInfo.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorAssemblyInfo.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeProject.StaticWebAssets.Manifest.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeProject.StaticWebAssets.xml
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeProject.styles.css
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.TagHelpers.input.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.TagHelpers.output.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorCoreGenerate.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorTargetAssemblyInfo.cache
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorTargetAssemblyInfo.cs
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.Views.pdb
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CopyComplete
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.dll
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.pdb
+D:\Jenkins Project\Project\Employee Project\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.genruntimeconfig.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.exe
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.deps.json
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.json
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.dev.json
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.pdb
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.Views.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.Views.pdb
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfoInputs.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfo.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CoreCompileInputs.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorAssemblyInfo.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorAssemblyInfo.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeProject.StaticWebAssets.Manifest.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeProject.StaticWebAssets.xml
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeProject.styles.css
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.TagHelpers.input.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.TagHelpers.output.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorCoreGenerate.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorTargetAssemblyInfo.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.RazorTargetAssemblyInfo.cs
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.Views.pdb
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CopyComplete
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.dll
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.pdb
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.genruntimeconfig.cache
+D:\Projects\EmployeeProject\EmployeeProject\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.AssemblyReference.cache
