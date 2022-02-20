@@ -17,7 +17,8 @@ namespace EmployeeProject
         {
             var folder = Environment.SpecialFolder.LocalApplicationData;
             var path = Environment.GetFolderPath(folder);
-            EmployeeDbPath = $"{path}{System.IO.Path.DirectorySeparatorChar}Employee.db";
+            //EmployeeDbPath = $"{path}{System.IO.Path.DirectorySeparatorChar}Employee.db";
+            EmployeeDbPath = "D:/db/Employee.db";
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
